@@ -1,0 +1,15 @@
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/bin/Debug/net5.0/car_Dealership.deps.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/bin/Debug/net5.0/car_Dealership.runtimeconfig.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/bin/Debug/net5.0/car_Dealership.runtimeconfig.dev.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/bin/Debug/net5.0/car_Dealership.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/bin/Debug/net5.0/ref/car_Dealership.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/bin/Debug/net5.0/car_Dealership.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.csproj.AssemblyReference.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.AssemblyInfoInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.AssemblyInfo.cs
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.csproj.CoreCompileInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/ref/car_Dealership.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/car_dealership/obj/Debug/net5.0/car_Dealership.genruntimeconfig.cache
